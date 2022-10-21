@@ -9,7 +9,7 @@ This program only supports Windows.
 * Create a virtual environment:
   * `python -m venv env`
   * `.\env\Scripts\activate`
-  * Remember to run `.\venv\Scripts\activate` in a new terminal before running any scripts in the future
+  * Remember to run `.\env\Scripts\activate` in a new terminal before running any scripts in the future
 * Install required packages:
   * `pip install -r requirements.txt`
 
